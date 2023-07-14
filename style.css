@@ -56,9 +56,12 @@ div h4{
 }
 .mujib-2 ul > li{
     padding-top: 5px;
+    line-height:20px;
+    letter-spacing: 1px;
 }
 .last-para{
     padding-top: 20px;
     padding-bottom: 5px;
     text-align: end;
+    letter-spacing: 1px;
 }
